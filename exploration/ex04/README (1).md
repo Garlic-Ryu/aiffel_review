@@ -1,5 +1,5 @@
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 이동희
+- 코더 : 
 - 리뷰어 : 
 # 프로젝트 루브릭
 1. 다양한 방법으로 Text Classification 태스크를 성공적으로 구현하였다. [ ] 3가지 이상의 모델이 성공적으로 시도됨
